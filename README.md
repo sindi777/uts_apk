@@ -1,6 +1,10 @@
-# cnew_app
+# news_app
 
-A new Flutter project.
+<p align="center">
+  <img src="assets/ui/sc1.png" alt="Home Page" width="45%" />
+  <img src="assets/ui/sc2.png" alt="Profile Page" width="45%" />
+  <img src="assets/ui/sc3.png" alt="Profile Page" width="45%" />
+</p>
 
 ## Getting Started
 
